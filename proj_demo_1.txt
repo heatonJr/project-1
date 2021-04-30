@@ -1,6 +1,6 @@
 this is the 1st line content, update the file content 1st time.
 this is the 2nd line content, update the file content 2nd time.
-this is the 3th line content
+this is the 3th line content, update the file content 1st time on hot-fix branch.
 this is the 4th line content
 this is the 5th line content
 this is the 6th line content
