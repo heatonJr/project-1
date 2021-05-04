@@ -4,4 +4,4 @@ this is the 3th line content, update the file content 1st time on hot-fix branch
 this is the 4th line content
 this is the 5th line content
 this is the 6th line content  update on master test.
-this is the 7th line content
+this is the 7th line content, update on hot-fix test.
